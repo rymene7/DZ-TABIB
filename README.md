@@ -3,7 +3,6 @@
 A comprehensive web platform for connecting patients with specialist doctors in Algeria, featuring advanced search capabilities, appointment booking, and doctor reviews.
 
 ## 🔗 Live Demo
-**[Visit DZ-Tabib](https://dztabib.vercel.app/)**
 
 📋 **Project Report**: [Complete Technical Documentation](https://lnkd.in/gB7JnhXr)
 
