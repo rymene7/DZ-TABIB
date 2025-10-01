@@ -27,7 +27,7 @@ DZ-Tabib is a doctor directory platform that helps patients find and book appoin
 - **Tailwind CSS** - Utility-first CSS framework for styling
 - **Material-UI** - React component library for consistent design
 - **Leaflet.js** - Interactive mapping functionality
-- **Vercel** - Frontend deployment
+- **** - Frontend deployment
 
 ### Backend & Database
 - **Node.js** - JavaScript runtime for server-side development
@@ -54,7 +54,7 @@ DZ-Tabib is a doctor directory platform that helps patients find and book appoin
 ### My Contributions:
 - **Frontend Development**: Complete React application with Vite, implemented using Tailwind CSS and Material-UI
 - **Backend Integration**: Full API integration between React frontend and Node.js/Express backend
-- **Full-Stack Deployment**: Frontend and backend deployment on Vercel
+- **Full-Stack Deployment**: Frontend and backend deployment on 
 - **Database Architecture**: Contributed to PostgreSQL schema design with 3NF normalization
 - **Project Leadership**: Sprint management, team coordination, and technical decision-making
 - **Documentation**: Contributed to the technical documentation
