@@ -88,7 +88,7 @@ Developed as part of a Software Engineering course following **Agile/Scrum metho
 ## 🎨 Project Management
 
 - **Methodology**: Agile Scrum with 2-week sprints and role rotation
-- **Project Board**: [Trello Kanban Board](https://trello.com/invite/b/67313e3ca36e90550e0fb21b/ATTIdf85d0153e3a4ef4206bc4dbfb074ee6A1CF446A/tabib-dz)
+- **Project Board**: Trello Kanban Board
 - **Version Control**: Git workflow with feature branches and pull requests
 
 ## 📱 Current Limitations
